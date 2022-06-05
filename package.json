@@ -1,0 +1,14 @@
+{
+  "name": "fil7er-template-front-i-01",
+  "version": "1.0.0",
+  "description": "A simple template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "fil7er",
+  "license": "ISC"
+}
